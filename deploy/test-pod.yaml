@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: traffic-generator
+  namespace: default
+spec:
+  containers:
+    - name: traffic
+      image: busybox:1.36
+      command: ["sh", "-c", "while true; do ping -c 1 1.1.1.1; sleep 1; done"]

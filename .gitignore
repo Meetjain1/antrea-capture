@@ -1,0 +1,29 @@
+# Go build artifacts
+/bin/
+/out/
+*.exe
+*.exe~
+*.test
+*.prof
+
+# Go workspace
+/vendor/
+
+# OS / Editor junk
+.DS_Store
+.idea/
+.vscode/
+
+# Local kind / kube noise
+.kube/
+kind-logs/
+
+# Generated artifacts
+artifacts/*.err
+artifacts/*.log
+
+# Local scripts / helpers
+scripts/
+
+# Docker leftovers
+*.tar

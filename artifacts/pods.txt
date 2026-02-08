@@ -1,0 +1,16 @@
+NAMESPACE            NAME                                                   READY   STATUS    RESTARTS   AGE
+antrea-capture       capture-controller-sjjcc                               1/1     Running   0          2m42s
+antrea-capture       capture-controller-zkq55                               1/1     Running   0          2m42s
+default              traffic-generator                                      1/1     Running   0          2m42s
+kube-system          antrea-agent-4wnql                                     2/2     Running   0          4m39s
+kube-system          antrea-agent-q2fsm                                     2/2     Running   0          4m39s
+kube-system          antrea-controller-f655ff978-rqddw                      1/1     Running   0          4m39s
+kube-system          coredns-668d6bf9bc-mmdcp                               1/1     Running   0          4m52s
+kube-system          coredns-668d6bf9bc-q5hr4                               1/1     Running   0          4m52s
+kube-system          etcd-antrea-capture-control-plane                      1/1     Running   0          4m59s
+kube-system          kube-apiserver-antrea-capture-control-plane            1/1     Running   0          4m59s
+kube-system          kube-controller-manager-antrea-capture-control-plane   1/1     Running   0          4m59s
+kube-system          kube-proxy-j5qpl                                       1/1     Running   0          4m52s
+kube-system          kube-proxy-xmqd5                                       1/1     Running   0          4m51s
+kube-system          kube-scheduler-antrea-capture-control-plane            1/1     Running   0          4m59s
+local-path-storage   local-path-provisioner-58cc7856b6-cdngw                1/1     Running   0          4m52s

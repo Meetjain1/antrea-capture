@@ -1,0 +1,5 @@
+-rw-rw-rw- 1 root root 36864 Feb  8 18:57 /capture-traffic-generator.pcap0
+-rw-rw-rw- 1 root root     0 Feb  8 18:57 /capture-traffic-generator.pcap1
+-rw-rw-rw- 1 root root     0 Feb  8 18:57 /capture-traffic-generator.pcap2
+-rw-rw-rw- 1 root root     0 Feb  8 18:57 /capture-traffic-generator.pcap3
+-rw-rw-rw- 1 root root     0 Feb  8 18:57 /capture-traffic-generator.pcap4
